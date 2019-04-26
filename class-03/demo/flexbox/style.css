@@ -1,0 +1,29 @@
+h1 {
+  padding: 10px;
+  font-size: 3em;
+  background-color: #e1a0e1;
+  border-radius: 5px;
+}
+
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.float-image {
+  width: 100%;
+}
+
+.img-container {
+  flex: 1;
+}
+
+p {
+  flex: 3;
+}
+
+.flex-parent {
+  display: flex;
+  align-items: center;
+}
+
+

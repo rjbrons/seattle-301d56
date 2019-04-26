@@ -1,0 +1,12 @@
+div {
+  border: 10px solid yellow;
+}
+
+li {
+  border: 1px solid red;
+  max-width: 50%;
+}
+
+.is-hidden {
+  display: none;
+}
